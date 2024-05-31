@@ -1,10 +1,11 @@
-import React from 'react'
-import ReactDOM from 'react-dom/client'
-import App from './App.jsx'
-import './index.css'
-
-ReactDOM.createRoot(document.getElementById('root')).render(
+// by Xasanboy
+import ReactDOM from 'react-dom/client'// by Xasanboy
+import App from './App.jsx'// by Xasanboy
+import './index.css'// by Xasanboy
+// by Xasanboy
+ReactDOM.createRoot(document.getElementById('root')).render(// by Xasanboy
   <>
     <App />
   </>,
 )
+// by Xasanboy
